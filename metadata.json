@@ -1,0 +1,6 @@
+{
+  "name": "Stroke Protocol Navigator",
+  "description": "An interactive decision-support and protocol visualization tool for medical students on neurology rotation, specializing in acute ischemic stroke (AIS) management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
